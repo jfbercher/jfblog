@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>jfblog</title><link href="http://jfbercher.github.io/jfblog/" rel="alternate"></link><link href="http://ocefpaf.github.io/python4oceanographers//feeds/all.atom.xml" rel="self"></link><id>http://jfbercher.github.io/jfblog/</id><updated>2014-05-01T23:05:00+02:00</updated><entry><title>The very first post</title><link href="http://jfbercher.github.io/jfblog/blog/2014/05/01/the%20slug%20of%20the%20thing/" rel="alternate"></link><updated>2014-05-01T23:05:00+02:00</updated><author><name>J.-F. Bercher</name></author><id>tag:jfbercher.github.io/jfblog,2014-05-01:blog/2014/05/01/the slug of the thing/</id><summary type="html">&lt;p&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;This is a text that describes that I am doing. First, I launch the &lt;code&gt;pylab&lt;/code&gt; magic, with inline graphics. &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
 &lt;div class="prompt input_prompt"&gt;
@@ -372,7 +381,7 @@ SRks7AzDMCnj/wNN3o26OBFCMgAAAABJRU5ErkJggg==
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
 &lt;div class="prompt input_prompt"&gt;
-In&amp;nbsp;[4]:
+In&amp;nbsp;[1]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
     &lt;div class="input_area"&gt;
@@ -388,7 +397,7 @@ In&amp;nbsp;[4]:
 
 
 &lt;div class="output_area"&gt;&lt;div class="prompt output_prompt"&gt;
-    Out[4]:&lt;/div&gt;
+    Out[1]:&lt;/div&gt;
 
 &lt;div class="output_html rendered_html output_subarea output_pyout"&gt;
 
